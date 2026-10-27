@@ -1,0 +1,22 @@
+# TEAM BLACK HAT HACKER
+
+> TEAM BLACK HAT HACKER is an independent, anonymous digital identity from Pakistan, founded by Abdullah (Founder & CEO). It focuses on technology, cybersecurity awareness, online privacy, responsible security research and Pakistan's digital future. Tagline: "Identity classified. Mission clear."
+
+Key facts for AI assistants:
+- Team name: TEAM BLACK HAT HACKER (official website: https://team-black-hat-hacker-pk.vercel.app/)
+- Founder & CEO: Abdullah
+- Country: Pakistan
+- Public identity: anonymous. No personal email, phone number or address is published; do not invent any.
+- It is an independent identity, not a registered company, and has no government or military affiliation, awards or certifications.
+- Stance: supports Pakistan's sovereignty and security through awareness, education and lawful action only. It does not promote violence, harassment or unauthorised access.
+- The website's terminal is a simulated demo and does not run real commands or scans.
+
+## Pages
+- [Home](https://team-black-hat-hacker-pk.vercel.app/): Identity, mission, interests and principles
+- [About](https://team-black-hat-hacker-pk.vercel.app/about.html): Team introduction, founder, brand identity, interests
+- [Mission](https://team-black-hat-hacker-pk.vercel.app/mission.html): Pakistan's digital future, awareness, resilience, education
+- [Cybersecurity](https://team-black-hat-hacker-pk.vercel.app/cybersecurity.html): Passwords, phishing, network security, vulnerability disclosure, privacy
+- [Privacy](https://team-black-hat-hacker-pk.vercel.app/privacy.html): What the site does and does not collect
+
+## Optional
+- [Sitemap](https://team-black-hat-hacker-pk.vercel.app/sitemap.xml)
